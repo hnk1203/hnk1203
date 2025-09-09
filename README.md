@@ -26,10 +26,10 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=hnk1203&show_icons=true&theme=radical )
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnk1203&layout=compact&theme=radical )
-
 # :mailbox_with_mail: Contacts
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hnk120325@gmail.com)](mailto:hnk120325@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:hnk1203@naver.com)](mailto:hnk1203@naver.com)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=hnk1203&show_icons=true&theme=radical )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnk1203&layout=compact&theme=radical )
