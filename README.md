@@ -1,5 +1,4 @@
-##🔥 기술 스택 🔥##
-
+# 🔥 SKILL 🔥
 💻 프론트엔드 (Frontend) 💻
 
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
