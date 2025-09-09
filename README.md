@@ -4,7 +4,5 @@
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me 
 
-<!---
-hnk1203/hnk1203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Stats](https://github-readme-stats.vercel.app/api?username=hnk1203&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnk1203&layout=compact&theme=radical)
