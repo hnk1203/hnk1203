@@ -27,6 +27,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=hnk1203&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnk1203&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=hnk1203&show_icons=true&theme=radical )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnk1203&layout=compact&theme=radical )
+
 
