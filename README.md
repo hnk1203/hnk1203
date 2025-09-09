@@ -33,7 +33,7 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:hnk1203@naver.com)](mailto:hnk1203@naver.com) : hnk1203@naver.com
 
 # ✏ STUDY
-[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@devjune)
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@dev_june)
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=hnk1203&show_icons=true&theme=radical )
