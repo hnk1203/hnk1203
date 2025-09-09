@@ -31,5 +31,9 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hnk120325@gmail.com)](mailto:hnk120325@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:hnk1203@naver.com)](mailto:hnk1203@naver.com)
 
+# ✏ STUDY
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@devjune)
+
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=hnk1203&show_icons=true&theme=radical )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnk1203&layout=compact&theme=radical )
